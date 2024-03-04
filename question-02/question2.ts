@@ -1,0 +1,1 @@
+console.log(`"Hi Hammad, Would you like to learn some python today!"`);
